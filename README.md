@@ -1,4 +1,4 @@
-# Smart Task Manager 🚀
+# Smart Task Manager 
 
 A modern, full-featured web application built with Java Servlets, JSP, JDBC, and MySQL. This project follows the MVC (Model-View-Controller) architecture and features a premium, glassmorphism-inspired UI.
 
