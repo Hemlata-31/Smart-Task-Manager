@@ -1,0 +1,25 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Tomcat (Smart Tomcat artifacts)
+.smarttomcat/
+conf/
+logs/
+temp/
+work/
+webapps/
+
+# Compiled Java classes
+*.class
+web/WEB-INF/classes/
+
+# Build tools
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
