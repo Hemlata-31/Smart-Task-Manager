@@ -2,7 +2,7 @@
 
 A modern, full-featured web application built with Java Servlets, JSP, JDBC, and MySQL. This project follows the MVC (Model-View-Controller) architecture and features a premium, glassmorphism-inspired UI.
 
-## Features ✨
+## Features 
 - **User Authentication**: Secure Registration and Login system.
 - **Task Management**: Full CRUD operations (Create, Read, Update, Delete) for tasks.
 - **Task Status & Priority**: Organize tasks by Priority (Low, Medium, High) and Status (Pending, In Progress, Completed).
@@ -11,13 +11,13 @@ A modern, full-featured web application built with Java Servlets, JSP, JDBC, and
 - **Pomodoro Timer**: Integrated productivity timer to keep you focused.
 - **Responsive Design**: Modern dark-mode interface that looks great on all screens.
 
-## Technology Stack 🛠️
+## Technology Stack 
 - **Backend**: Java Servlets, JDBC
-- **Frontend**: JSP, Vanilla CSS (Glassmorphism), JavaScript
+- **Frontend**: JSP, CSS, JavaScript
 - **Database**: MySQL 8.0+
 - **Server**: Apache Tomcat 10.1+
 
-## Getting Started 🏁
+## Getting Started 
 
 ### Prerequisites
 1.  **JDK 17 or higher** installed.
@@ -42,11 +42,9 @@ A modern, full-featured web application built with Java Servlets, JSP, JDBC, and
 4.  Build the project and click **Run**.
 5.  Access the app at `http://localhost:8080/SmartTaskManager/` (or your configured context path).
 
-## Project Structure 📁
+## Project Structure 
 - `src/`: Java source files (Servlets, DAOs, Models, Utilities).
 - `web/`: Frontend resources (JSP files, CSS, JavaScript, Images).
 - `web/WEB-INF/lib/`: External JAR dependencies.
 - `schema.sql`: Database schema definition.
 
----
-Developed with ❤️ by [Your Name]
